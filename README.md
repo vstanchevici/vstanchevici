@@ -6,7 +6,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![gRPC](https://img.shields.io/badge/grpc-%230db7ed.svg?style=plastic&logo=grpc&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vstanchevici&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
